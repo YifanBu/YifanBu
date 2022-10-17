@@ -6,7 +6,7 @@
 
 <div>
  <p>
-Yifan(Ivan) Bu was an experienced developer and consultant in the digital marketing space who spends his time working with startups and enterprises around the APAC on digital transformation and digital marketing projects. Early 2022, he decided to dive into the deep field of Cloud and DevOps and he has never stopped diving deeper since then.
+Yifan(Ivan) Bu is an experienced developer and consultant in the digital marketing space who spends his time working with startups and enterprises around the APAC on digital transformation and digital marketing projects. Early 2022, he decided to dive into the deep field of Cloud and DevOps and he has never stopped diving deeper since then.
    
    
 - :mag: I’m currently ready for new adventure.
