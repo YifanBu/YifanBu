@@ -10,7 +10,7 @@ Yifan(Ivan) Bu is an experienced developer and consultant in the digital marketi
    
    
 - :mag: I’m currently ready for new adventure.
-- :bulb: Ask me about AWS, Azure, Terraform, Kubernetes, DevOps, and Automation.
+- :bulb: Ask me about AWS, Azure, Terraform, DevOps, Cloud Security and Automation with Python.
 - 📫 How to reach me: email: ivanbuau@gmail.com
 - :house: Home Base: https://www.linkedin.com/in/ivan-bu/
 
