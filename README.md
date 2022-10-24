@@ -36,6 +36,7 @@ Yifan(Ivan) Bu is an experienced developer and consultant in the digital marketi
 <img src="https://user-images.githubusercontent.com/31915035/195757127-b2f76a9e-0941-432f-8148-834da3e7526b.png" alt="Azure Developer" height="60" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/31915035/195757144-b52b7767-f970-4830-8e79-3e21fc948154.png" alt="Terraform" height="60" style="vertical-align:top; margin:4px">
 </p>
+
 ### Github Stats
 
 [![Ivan Bu GitHub Stats](https://github-readme-stats.vercel.app/api?username=yifanbu&show_icons=true&count_private=true)](https://github.com/yifanbu)
