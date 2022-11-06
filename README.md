@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm [Yifan(Ivan) Bu](https://www.linkedin.com/in/ivan-bu/)
-> MarTech Specialist, Cloud Consultant, and Lifelong Learner
+> Analytics Specialist, Cloud Solution Architect, and Lifelong Learner
 
 
 
 
 <div>
  <p>
-Yifan(Ivan) Bu is an experienced developer and consultant in the digital marketing space who spends his time working with startups and enterprises around the APAC on digital transformation and digital marketing projects. Early 2022, he decided to dive into the deep field of Cloud and DevOps and he has never stopped diving deeper since then.
+Yifan(Ivan) Bu is an experienced developer and consultant in the digital marketing space who spends his time working with startups and enterprises around the APAC on digital transformation and digital analytics projects. Early 2022, he decided to dive into the deep field of Cloud and DevOps and he has never stopped diving deeper since then.
    
    
 - :mag: I’m currently diving into Cloud ocean.
