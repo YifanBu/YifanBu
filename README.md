@@ -1,16 +1,16 @@
 ### Hi there 👋 I'm [Yifan(Ivan) Bu](https://www.linkedin.com/in/ivan-bu/)
-> DevOps Engineer, Cloud Consultant, and Lifelong Learner
+> Cloud Data Engineer, Data Analytics Consultant, and Lifelong Learner
 
 
 
 
 <div>
  <p>
-Yifan(Ivan) Bu is an experienced developer and consultant in the digital marketing space who spends his time working with startups and enterprises around the APAC on digital transformation and digital marketing projects. Early 2022, he decided to dive into the deep field of Cloud and DevOps and he has never stopped diving deeper since then.
+Yifan(Ivan) Bu is an experienced cloud data engineer and consultant in the data analytics space who spends his time working on Google Cloud for clients around the APAC region. Early 2022, he decided to take a break and spend time with family after covid-19. Meanwhile, he dived into multi-cloud ocean and achieved 4 AWS and Azure certificates.
    
    
-- :mag: I’m currently diving into Cloud and DevOps ocean.
-- :bulb: Ask me about AWS, Azure, Terraform, DevOps, Cloud Security and Automation with Python.
+- :mag: I’m currently diving into Multi-cloud ocean.
+- :bulb: Ask me about Data Analytics, Data Warehouse, Big Data, GCP, AWS, Azure, and Terraform.
 - 📫 How to reach me: email: ivanbuau@gmail.com
 - :house: Home Base: https://www.linkedin.com/in/ivan-bu/
 
