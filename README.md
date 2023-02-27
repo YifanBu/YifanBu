@@ -6,11 +6,10 @@
 
 <div>
  <p>
-Yifan(Ivan) Bu is an experienced cloud data engineer and consultant in the data analytics space who spends his time working on Google Cloud for clients around the APAC region. Early 2022, he decided to take a break and spend time with family after covid-19. Meanwhile, he dived into multi-cloud ocean and achieved 4 AWS and Azure certificates.
-   
+Yifan(Ivan) Bu is an experienced MarTech & Data Specialist in the digital marketing space who spends his time delivering solid data solutions for clients in the APAC region. 
    
 - :mag: I’m currently diving into Multi-cloud ocean.
-- :bulb: Ask me about Data Analytics, Data Warehouse, Big Data, GCP, AWS, Azure, and Terraform.
+- :bulb: Ask me about MarTech, Data Analytics, Data Warehouse, Big Data, GCP, AWS, Azure, and Terraform.
 - 📫 How to reach me: email: ivanbuau@gmail.com
 - :house: Home Base: https://www.linkedin.com/in/ivan-bu/
 
